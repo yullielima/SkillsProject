@@ -6,8 +6,6 @@ export const TopNavBar = styled.nav`
   height: 89px;
   display: flex;
   justify-content: center;
-  position: fixed;
-  background-color: transparent;
 `;
 
 export const InnerNavContainer = styled.section`
